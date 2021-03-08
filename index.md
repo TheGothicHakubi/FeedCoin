@@ -8,4 +8,4 @@ Currently I am at the earlist point in development with only a single test build
 
 DOGECOIN
 DQEjjVpdjxVZ72JTLQ7F93q7fAy2q74GHY
-![alt text](https://github.com/TheGothicHakubi/FeedCoin/blob/gh-pages/DogeCoin.png)
+![](https://github.com/TheGothicHakubi/FeedCoin/blob/gh-pages/DogeCoin.png)
